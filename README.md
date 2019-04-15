@@ -8,4 +8,4 @@
 2. Likelihood of it being a reply is higher if pronoun is used
 3. Message Gap = Particular reference to message -> Probability decreases exponentially
 4. Context to map which message to reply to -> subject of the conversation - map it to the closest entity by default
-* Direct word matches give a higher probability
+  * Direct word matches give a higher probability
