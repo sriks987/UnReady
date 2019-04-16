@@ -29,4 +29,4 @@
 
 ### Assumptions
 1. Reply feature (used in common messaging applications) is not applicable
-2. 
+2. Language used not that of villager's.
