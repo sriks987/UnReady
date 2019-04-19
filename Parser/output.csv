@@ -1,0 +1,23 @@
+SentenceNo,SequenceNo,Date,Time,Speaker,Text
+0,1,19/03/2019,10:01 am,MESSAGE,Messages to this group are now secured with end-to-end encryption. Tap for more info.
+1,2,19/03/2019,10:01 am,MESSAGE,"Abhishek Sinha created group ""Group chat Dataset"""
+2,3,19/03/2019,10:01 am,MESSAGE,Abhishek Sinha added you
+3,4,19/03/2019,10:02 am,Abhishek Sinha,We can talk here to create a dataset if you want to
+4,5,19/03/2019,10:02 am,Midhush,Aaah ok
+5,6,19/03/2019,10:02 am,Midhush,I thought
+6,7,19/03/2019,10:02 am,Midhush,It was coz you didn't like the name
+7,8,19/03/2019,10:04 am,Abhishek Sinha,Group rules would be:
+8,8,19/03/2019,10:04 am,Abhishek Sinha,b'- speak in English'
+9,8,19/03/2019,10:04 am,Abhishek Sinha,b'- speak in grammatically correct English'
+10,8,19/03/2019,10:04 am,Abhishek Sinha,"b""- Don't use bullshit shortforms"""
+11,8,19/03/2019,10:04 am,Abhishek Sinha,"b""- don't use exclamations like 'Aah' that might not be part of the English delictionary, use 'Ah!' instead"""
+12,9,19/03/2019,10:08 am,MESSAGE,Abhishek Sinha changed the group description
+13,10,19/03/2019,10:16 am,Midhush,Ah!
+14,11,19/04/2019,1:16 pm,Midhush,"Hey guys, let's go for Avengers Endgame on 27th"
+15,12,19/04/2019,1:16 pm,Midhush,27th of April is a Saturday
+16,13,19/04/2019,1:24 pm,Abhishek Sinha,Alright but i need to watch some other movies before watching avengers
+17,14,19/04/2019,2:00 pm,Midhush,Okay
+18,15,19/04/2019,2:00 pm,Midhush,Try watching them before the coming Friday
+19,16,19/04/2019,2:00 pm,Midhush,Srikumar you are in ?
+20,17,19/04/2019,2:10 pm,Abhishek Sinha,Which movies are there after the previous avengers that I need to watch?
+21,18,19/04/2019,2:11 pm,Midhush,I think Avengers Infinity War and The Avengers should be enough
