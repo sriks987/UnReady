@@ -25,7 +25,9 @@
     * Sentence Similarity - Removal Needed
     * Reference Matching - No Removal
 2. Tokenisation and Lemmatisation
-3. Extracting Whatsapp Messages
+
+### Parsing
+1. Extracting Whatsapp Messages
 
 ### Assumptions
 1. Reply feature (used in common messaging applications) is not applicable
